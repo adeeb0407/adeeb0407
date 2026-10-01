@@ -6,7 +6,7 @@
 ### <div align="center">I'm Adeeb Shah, a full-time full-stack developer 👨‍💻 working remotely since 2020🚀</div>  
   
 
-- 🔭 I’m currently working on [TechWondoe](https://www.techwondoe.com/)  
+- 🔭 I’m currently working on [Pronttera](http://pronttera.com/) my Tech startup
   
 
 - 🌱 I’m currently learning Hyperledger and Kubernetes  
